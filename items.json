@@ -10,7 +10,18 @@
   },
   {
     "itemID":"motor oil",
-    "isRecyclable":"dropoff"
+    "isRecyclable":"dropoff",
+    "type":"oil"
+  },
+  {
+    "itemID":"cell phone",
+    "isRecyclable":"dropoff",
+    "type":"electronics"
+  },
+  {
+    "itemID":"clippings",
+    "isRecyclable":"dropoff",
+    "type":"yard waste"
   }
   ]
 }
